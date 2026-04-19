@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+## 📄 Download Full CV
+**[Click here to download my CV as a PDF.](https://ColdInk4.github.io/files/CV_Jiepeng_Jin.pdf)**
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science**, Zhejiang University (ZJU CS), 2026 – 2031 (Expected)
+* **B.E. in Computer Science and Technology**, Zhejiang University (ZJU CS), 2022 – 2026 (Expected)
+    * *Minor: Advanced Class for Engineering Education (ACEE), Chu Kochen Honors College*
+    * **GPA**: 4.08 / 4.30
+    * **Selected Coursework**: Fundamentals of Data Structures (98), Calculus (97), Mathematical Analysis II (H) (95), Linear Algebra (95), Information Theory (94), Frontiers of AI (90).
 
-Work experience
+Industrial Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Full-stack & AI Agent Developer** | Hangzhou Tongjian Baixiao Tech | Oct 2025 – Apr 2026
+    * End-to-end development of production-ready AI agents and full-stack systems. 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Selected Honors and Scholarships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Title of Graduate with Honor** (University Level) | 2025
+* **"Junsheng Foundation" Scholarship** (Top 10 innovative students at ZJU) | 2024
+* **First Prize, 15th National Mathematics Competition** (Zhejiang Division) | 2023
+* **First Prize of Excellent Undergraduate Scholarship** (Top 3% of the university) | 2023
 
-Publications
+Ongoing Studies
 ======
+* **Language Modeling from Scratch (Stanford CS336 Syllabus)** | 2026 – Present
+    * Implementing Transformer architectures, tokenization, and distributed training systems from the ground up to understand emergent capabilities and scaling laws.
+
+<!-- Publications -->
+<!-- ====== -->
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
